@@ -1,5 +1,0 @@
-# Random Number Generator
-
-Trivial implementation of the Mersenne Twister based heavily on the
-implementaiton found on the Wikipedia page. Generates a few simple
-random numbers just to show that it can be done.
