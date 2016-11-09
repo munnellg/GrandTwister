@@ -9,7 +9,7 @@ distribution of values it produces shows that it is quite biased
 towards numbers near zero.
 
 Second PRNG is a linear congruential generator of the form
-x<sub>n+1</sub=(aX<sub>n</sub>+c). Common enough in the early 90s, it
+x<sub>n+1</sub>(aX<sub>n</sub>+c). Common enough in the early 90s, it
 produces values with an even distribution, but fails a chi-square test
 for generating bigrams and trigrams. Essentially, if we look at
 patterns produced by the PRNG, no single short pattern should be more
